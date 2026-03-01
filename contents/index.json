@@ -1,0 +1,14 @@
+{
+    "owners": [
+        {
+            "name": "elise"
+        }
+    ],
+    "contents": {
+        "elise": [
+            {
+                "path": "elise/1"
+            }
+        ]
+    }
+}
